@@ -1,0 +1,9 @@
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\bin\Debug\LogicLayer.dll
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\bin\Debug\LogicLayer.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\obj\Debug\LogicLayer.csproj.AssemblyReference.cache
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\obj\Debug\LogicLayer.csproj.CoreCompileInputs.cache
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\obj\Debug\LogicLayer.csproj.CopyComplete
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\obj\Debug\LogicLayer.dll
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\LogicLayer\obj\Debug\LogicLayer.pdb

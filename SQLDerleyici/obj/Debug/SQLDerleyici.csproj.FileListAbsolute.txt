@@ -1,0 +1,15 @@
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.exe.config
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.exe
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\SQLDerleyici.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.AssemblyReference.cache
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.SQLDerleyiciForm.resources
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.Properties.Resources.resources
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.GenerateResource.cache
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.CoreCompileInputs.cache
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.exe
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\DataAccessLayer.dll
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\LogicLayer.dll
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\DataAccessLayer.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\bin\Debug\LogicLayer.pdb
+D:\Projeler\C#Projeler\GitProje\SQLDerleyici\SQLDerleyici\obj\Debug\SQLDerleyici.csproj.CopyComplete
